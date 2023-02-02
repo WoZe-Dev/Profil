@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ilia</h1>
-<h3 align="center">je suis passionné par le dev</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">My name is Ilia 💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
