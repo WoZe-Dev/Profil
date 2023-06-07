@@ -1,7 +1,5 @@
 <div align="center">
   
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ### My name is Ilia  💻
   
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -17,13 +15,6 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://wozze.fr/)
 </div>
 
-<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
-
-<g>
-<rect x="5" y="5" id="background" />
-<g>
-<foreignObject x="21" y="17" width="318" height="176">
-<div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
 <h2>Languages Used (By File Size)</h2>
 
