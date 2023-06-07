@@ -104,42 +104,11 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </svg>
 
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <details>
   <summary>Active projects</summary>
 
   [![gestionmatos](https://user-images.githubusercontent.com/57033110/244007142-7ded70ac-002d-4638-b36d-5cda00d4a386.JPG)](https://github.com/gestionmatos/gestionmatos)
   [![e-commerce | lamusique-se-livre ](https://user-images.githubusercontent.com/57033110/199219843-e1fab2cf-1543-4692-aa1e-fba6cfe8548c.png)](https://github.com/la-musique-se-livre e-commerce)
-  [![MXMenu](https://user-images.githubusercontent.com/42576124/150105549-9cf3527a-ff41-4cd5-abd8-fb38570c42d8.png)](https://github.com/GreepTheSheep/openplanet-maniaexchange-menu)
 
 </details>
-
-<details>
-  <summary>My NPM Packages</summary>
-
-[![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
-[![node-tm-essentials](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-tm-essentials&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-tm-essentials)
-[![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
-
-</details>
-
-<!--
-**GreepTheSheep/GreepTheSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
