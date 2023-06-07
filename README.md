@@ -17,110 +17,8 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://wozze.fr/)
 </div>
 
-
-<details>
-  <summary>Active projects</summary>
-
-  [![gestionmatos](https://user-images.githubusercontent.com/57033110/244007142-7ded70ac-002d-4638-b36d-5cda00d4a386.JPG)](https://github.com/gestionmatos/gestionmatos)
-  [![e-commerce | la musique se livre ](https://user-images.githubusercontent.com/57033110/199219843-e1fab2cf-1543-4692-aa1e-fba6cfe8548c.png)](https://github.com/la-musique-se-livre e-commerce)
-</details>
-
 <svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
-<style>
-svg {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  font-size: 14px;
-  line-height: 21px;
-}
 
-#background {
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
-  rx: 6px;
-  ry: 6px;
-}
-
-foreignObject {
-  width: calc(100% - 10px - 32px);
-  height: calc(100% - 10px - 24px);
-}
-
-h2 {
-  margin-top: 0;
-  margin-bottom: 0.75em;
-  line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
-}
-
-ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-li {
-  display: inline-flex;
-  font-size: 12px;
-  margin-right: 2ch;
-  align-items: center;
-  flex-wrap: nowrap;
-  transform: translateX(-500%);
-  animation-duration: 2s;
-  animation-name: slideIn;
-  animation-function: ease-in-out;
-  animation-fill-mode: forwards;
-}
-
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
-
-div.ellipsis {
-  height: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.octicon {
-  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;
-}
-
-.progress {
-  display: flex;
-  height: 8px;
-  overflow: hidden;
-  background-color: rgb(225, 228, 232);
-  border-radius: 6px;
-  outline: 1px solid transparent;
-  margin-bottom: 1em;
-}
-
-.progress-item {
-  outline: 2px solid rgb(225, 228, 232);
-  border-collapse: collapse;
-}
-
-.lang {
-  font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);
-}
-
-.percent {
-  color: rgb(88, 96, 105)
-}
-</style>
 <g>
 <rect x="5" y="5" id="background" />
 <g>
@@ -139,147 +37,70 @@ div.ellipsis {
 
 
 <li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
+<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JavaScript</span>
-<span class="percent">68.32%</span>
+<span style=" font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);">HTML</span>
+<span style="color: rgb(88, 96, 105)">80.32%</span>
 </li>
+
+<li style="animation-delay: 300ms;">
+  <svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;"
+  viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+  fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+  <span style=" font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);">CSS</span>
+  <span class="percent">70.04%</span>
+  </li>
 
 
 <li style="animation-delay: 150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CSS</span>
-<span class="percent">14.44%</span>
+<span style=" font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);">JavaScript</span>
+<span style="color: rgb(88, 96, 105)">50.44%</span>
 </li>
 
+<li style="animation-delay: 2100ms;">
+  <svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;"
+  viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+  fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+  <span style=" font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);">Vue.js</span>
+  <span style="color: rgb(88, 96, 105)">50.40%</span>
+  </li>
 
-<li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">HTML</span>
-<span class="percent">10.04%</span>
-</li>
+
 
 
 <li style="animation-delay: 450ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
+<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Python</span>
-<span class="percent">2.26%</span>
+<span style=" font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);">Python</span>
+<span style="color: rgb(88, 96, 105)">10.26%</span>
 </li>
 
 
-<li style="animation-delay: 600ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#701516;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Ruby</span>
-<span class="percent">2.22%</span>
-</li>
-
-
-<li style="animation-delay: 750ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b7489;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">TypeScript</span>
-<span class="percent">1.15%</span>
-</li>
-
-
-<li style="animation-delay: 900ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#555555;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">C</span>
-<span class="percent">0.48%</span>
-</li>
-
-
-<li style="animation-delay: 1050ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Java</span>
-<span class="percent">0.43%</span>
-</li>
-
-
-<li style="animation-delay: 1200ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f34b7d;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">C++</span>
-<span class="percent">0.28%</span>
-</li>
-
-
-<li style="animation-delay: 1350ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3D6117;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">TeX</span>
-<span class="percent">0.20%</span>
-</li>
-
-
-<li style="animation-delay: 1500ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3A4E3A;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Cuda</span>
-<span class="percent">0.08%</span>
-</li>
-
-
-<li style="animation-delay: 1650ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DA5B0B;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Jupyter Notebook</span>
-<span class="percent">0.05%</span>
-</li>
-
-
-<li style="animation-delay: 1800ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#244776;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CoffeeScript</span>
-<span class="percent">0.03%</span>
-</li>
-
-
-<li style="animation-delay: 1950ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Dockerfile</span>
-<span class="percent">0.01%</span>
-</li>
-
-
-<li style="animation-delay: 2100ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Shell</span>
-<span class="percent">0.01%</span>
-</li>
-
-
-<li style="animation-delay: 2250ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#427819;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Makefile</span>
-<span class="percent">0.00%</span>
-</li>
 
 
 
@@ -291,3 +112,43 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </g>
 </svg>
 
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+
+<details>
+  <summary>Active projects</summary>
+
+  [![gestionmatos](https://user-images.githubusercontent.com/57033110/244007142-7ded70ac-002d-4638-b36d-5cda00d4a386.JPG)](https://github.com/gestionmatos/gestionmatos)
+  [![e-commerce | lamusique-se-livre ](https://user-images.githubusercontent.com/57033110/199219843-e1fab2cf-1543-4692-aa1e-fba6cfe8548c.png)](https://github.com/la-musique-se-livre e-commerce)
+  [![MXMenu](https://user-images.githubusercontent.com/42576124/150105549-9cf3527a-ff41-4cd5-abd8-fb38570c42d8.png)](https://github.com/GreepTheSheep/openplanet-maniaexchange-menu)
+
+</details>
+
+<details>
+  <summary>My NPM Packages</summary>
+
+[![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
+[![node-tm-essentials](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-tm-essentials&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-tm-essentials)
+[![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
+
+</details>
+
+<!--
+**GreepTheSheep/GreepTheSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
