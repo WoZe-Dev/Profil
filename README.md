@@ -107,20 +107,12 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 <details>
   <summary>Active projects</summary>
-  </div>
-
-
+  
 <h2>Langues utilisées</h2>
-
-<div>
 
   [![gestionmatos](https://user-images.githubusercontent.com/57033110/244007142-7ded70ac-002d-4638-b36d-5cda00d4a386.JPG)](https://github.com/gestionmatos/gestionmatos)
-  </div>
+  <h2>Langues utilisées</h2>
 
-
-<h2>Langues utilisées</h2>
-
-<div>
   [![e-commerce ](https://user-images.githubusercontent.com/57033110/199219843-e1fab2cf-1543-4692-aa1e-fba6cfe8548c.png)](https://github.com/la-musique-se-livre/e-commerce)
 
 </details>
